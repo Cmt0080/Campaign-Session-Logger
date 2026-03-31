@@ -1,0 +1,26 @@
+[
+    {
+        "username": "dm",
+        "password": "$2b$12$krYfbnOQHFBN3a4OnVHJsuAdW\/WEvdE43olxtpEDmSR87t4rojIca",
+        "role": "dm",
+        "character_name": "Dungeon Master"
+    },
+    {
+        "username": "cmt0080",
+        "password": "$2y$10$tUEDRld\/xWn2Zt4WVS3S4OGU80rCJ1dgM7pYrql4lqMai9Eppg3vW",
+        "role": "player",
+        "character_name": "Player"
+    },
+    {
+        "username": "Connor",
+        "password": "$2y$10$56nns2xEpe8cHKBYxMJE..wgI\/YGiR\/fyZzVXj5AyAc8qBfb.VQ86",
+        "role": "dm",
+        "character_name": "Connor"
+    },
+    {
+        "username": "cmt",
+        "password": "$2y$10$oIxTQ9fIAKpCupQnlltGFO9ypWCVAePRUTEmyzlxQSW637Prq\/GgW",
+        "role": "player",
+        "character_name": "cmt"
+    }
+]
